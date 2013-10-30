@@ -314,8 +314,8 @@ IMP:
 INR: 
   code: INR
   name: Rupees
-  symbol: ₨
-  unicode_hex: 8360
+  symbol: ₹
+  unicode_hex: 20B9
 IQD: 
   code: IQD
   name: Dinars
