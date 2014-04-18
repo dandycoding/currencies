@@ -314,7 +314,7 @@ IMP:
 INR:
   code: INR
   name: Rupees
-  symbol: ₹
+  symbol: INR
   unicode_hex: 20B9
 IQD:
   code: IQD
@@ -431,7 +431,7 @@ LYD:
 MAD:
   code: MAD
   name: Dirhams
-  sumbol: د.م.
+  symbol: MAD
 MDL:
   code: MDL
   name: Lei
