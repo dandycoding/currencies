@@ -1,136 +1,136 @@
---- 
-AED: 
+---
+AED:
   code: AED
   name: Dirhams
-AFN: 
+AFN:
   code: AFN
   name: Afghanis
   symbol: ؋
   unicode_hex: 1547
-ALL: 
+ALL:
   code: ALL
   name: Leke
   symbol: LEK
-  unicode_hex: 
+  unicode_hex:
     - 76
     - 101
     - 107
-AMD: 
+AMD:
   code: AMD
   name: Drams
-ANG: 
+ANG:
   code: ANG
   name: Guilders
   symbol: ƒ
   unicode_hex: 402
-AOA: 
+AOA:
   code: AOA
   name: Kwanza
-ARS: 
+ARS:
   code: ARS
   name: Pesos
   symbol: $
   unicode_hex: 36
-AUD: 
+AUD:
   code: AUD
   name: Dollars
   symbol: $
   unicode_hex: 36
-AWG: 
+AWG:
   alt_name: Florins
   code: AWG
   name: Guilders
   symbol: ƒ
   unicode_hex: 402
-AZN: 
+AZN:
   code: AZN
   name: "New Manats"
   symbol: ман
-  unicode_hex: 
+  unicode_hex:
     - 1084
     - 1072
     - 1085
-BAM: 
+BAM:
   code: BAM
   name: "Convertible Marka"
   symbol: KM
-  unicode_hex: 
+  unicode_hex:
     - 75
     - 77
-BBD: 
+BBD:
   code: BBD
   name: Dollars
   symbol: $
   unicode_hex: 36
-BDT: 
+BDT:
   code: BDT
   name: Taka
-BGN: 
+BGN:
   code: BGN
   name: Leva
   symbol: лв
-  unicode_hex: 
+  unicode_hex:
     - 82
     - 1074
-BHD: 
+BHD:
   code: BHD
   name: Dinars
-BIF: 
+BIF:
   code: BIF
   name: Francs
-BMD: 
+BMD:
   code: BMD
   name: Dollars
   symbol: $
   unicode_hex: 36
-BND: 
+BND:
   code: BND
   name: Dollars
   symbol: $
   unicode_hex: 36
-BOB: 
+BOB:
   code: BOB
   name: Bolivianos
   symbol: $b
-  unicode_hex: 
+  unicode_hex:
     - 36
     - 98
-BRL: 
+BRL:
   code: BRL
   name: Real
   symbol: R$
-  unicode_hex: 
+  unicode_hex:
     - 82
     - 36
-BSD: 
+BSD:
   code: BSD
   name: Dollars
   symbol: $
   unicode_hex: 36
-BTN: 
+BTN:
   code: BTN
   name: Ngultrum
-BWP: 
+BWP:
   code: BWP
   name: Pulas
   symbol: P
   unicode_hex: 80
-BYR: 
+BYR:
   code: BYR
   name: Rubles
   symbol: p.
-  unicode_hex: 
+  unicode_hex:
     - 112
     - 46
-BZD: 
+BZD:
   code: BZD
   name: Dollars
   symbol: BZ$
-  unicode_hex: 
+  unicode_hex:
     - 66
     - 90
     - 36
-CAD: 
+CAD:
   code: CAD
   name: Dollars
   symbol: $
@@ -138,86 +138,86 @@ CAD:
 CDF:
   code: CDF
   name: Franc
-CHF: 
+CHF:
   code: CHF
   name: "Switzerland Francs"
   symbol: CHF
-  unicode_hex: 
+  unicode_hex:
     - 67
     - 72
     - 70
-CLP: 
+CLP:
   code: CLP
   name: Pesos
   symbol: $
   unicode_hex: 36
-CNY: 
+CNY:
   code: CNY
   name: "Yuan Renminbi"
   symbol: ¥
   unicode_hex: 165
-COP: 
+COP:
   code: COP
   name: Pesos
   symbol: $
   unicode_hex: 36
-CRC: 
+CRC:
   code: CRC
   name: Colones
   symbol: ₡
   unicode_hex: 8353
-CUP: 
+CUP:
   code: CUP
   name: Pesos
   symbol: ₱
   unicode_hex: 8369
-CVE: 
+CVE:
   code: CVE
   name: Escudos
-CZK: 
+CZK:
   code: CZK
   name: Koruny
   symbol: Kč
-  unicode_hex: 
+  unicode_hex:
     - 75
     - 269
-DJF: 
+DJF:
   code: DJF
   name: Francs
-DKK: 
+DKK:
   code: DKK
   name: Kroner
   symbol: kr
-  unicode_hex: 
+  unicode_hex:
     - 107
     - 114
-DOP: 
+DOP:
   code: DOP
   name: Pesos
   symbol: RD$
-  unicode_hex: 
+  unicode_hex:
     - 82
     - 68
     - 36
-DZD: 
+DZD:
   code: DZD
   name: Dinars
-EEK: 
+EEK:
   code: EEK
   name: Krooni
   symbol: kr
-  unicode_hex: 
+  unicode_hex:
     - 107
     - 114
-EGP: 
+EGP:
   code: EGP
   name: Pounds
   symbol: £
   unicode_hex: 163
-ETB: 
+ETB:
   code: ETB
   name: "Ethopia Birr"
-EUR: 
+EUR:
   code: EUR
   name: Euro
   symbol: €
@@ -225,185 +225,185 @@ EUR:
 FJD:
   code: FJD
   name: Dollar
-FKP: 
+FKP:
   code: FKP
   name: Pounds
   symbol: £
   unicode_hex: 163
-GBP: 
+GBP:
   code: GBP
   name: Pounds
   symbol: £
   unicode_hex: 163
-GEL: 
+GEL:
   code: GEL
   name: Lari
-GGP: 
+GGP:
   code: GGP
   name: Pounds
   symbol: £
   unicode_hex: 163
-GHS: 
+GHS:
   code: GHS
   name: Cedis
   symbol: ¢
   unicode_hex: 162
-GIP: 
+GIP:
   code: GIP
   name: Pounds
   symbol: £
   unicode_hex: 163
-GMD: 
+GMD:
   code: GMD
   name: Lari
-GNF: 
+GNF:
   code: GNF
   name: Francs
-GTQ: 
+GTQ:
   code: GTQ
   name: Quetzales
   symbol: Q
   unicode_hex: 81
-GYD: 
+GYD:
   code: GYD
   name: Dollars
-HKD: 
+HKD:
   code: HKD
   name: Dollars
   symbol: $
   unicode_hex: 36
-HNL: 
+HNL:
   code: HNL
   name: Lempiras
   symbol: L
   unicode_hex: 76
-HRK: 
+HRK:
   code: HRK
   name: Kuna
   symbol: kn
-  unicode_hex: 
+  unicode_hex:
     - 107
     - 110
-HTG: 
+HTG:
   code: HTG
   name: "Haitian Gourde"
-HUF: 
+HUF:
   code: HUF
   name: Forint
   symbol: Ft
-  unicode_hex: 
+  unicode_hex:
     - 70
     - 116
-IDR: 
+IDR:
   code: IDR
   name: "Indonesian Rupiahs"
   symbol: Rp
-  unicode_hex: 
+  unicode_hex:
     - 82
     - 112
-ILS: 
+ILS:
   code: ILS
   name: "New Shekels"
   symbol: ₪
   unicode_hex: 8362
-IMP: 
+IMP:
   code: IMP
   name: Pounds
   symbol: £
   unicode_hex: 163
-INR: 
+INR:
   code: INR
   name: Rupees
   symbol: ₹
   unicode_hex: 20B9
-IQD: 
+IQD:
   code: IQD
   name: Dinars
-IRR: 
+IRR:
   code: IRR
   name: Riais
   symbol: ﷼
   unicode_hex: 65020
-ISK: 
+ISK:
   code: ISK
   name: Kronur
   symbol: kr
-  unicode_hex: 
+  unicode_hex:
     - 107
     - 114
-JEP: 
+JEP:
   code: JEP
   name: Pounds
   symbol: £
   unicode_hex: 163
-JMD: 
+JMD:
   code: JMD
   name: Dollars
-JOD: 
+JOD:
   code: JOD
   name: Dinars
-JPY: 
+JPY:
   code: JPY
   name: Yen
   symbol: ¥
   unicode_hex: 165
-KES: 
+KES:
   code: KES
   name: Shillings
-KGS: 
+KGS:
   code: KGS
   name: Soms
   symbol: лв
-  unicode_hex: 
+  unicode_hex:
     - 1083
     - 1074
-KHR: 
+KHR:
   code: KHR
   name: Rieis
-KMF: 
+KMF:
   code: KMF
   name: Francs
-KPW: 
+KPW:
   code: KPW
   name: Won
   symbol: ₩
   unicode_hex: 8361
-KRW: 
+KRW:
   code: KRW
   name: Won
   symbol: ₩
   unicode_hex: 8361
-KWD: 
+KWD:
   code: KWD
   name: Dinars
-KYD: 
+KYD:
   code: KYD
   name: Dollars
   symbol: $
   unicode_hex: 36
-KZT: 
+KZT:
   code: KZT
   name: Tenege
   symbol: лв
-  unicode_hex: 
+  unicode_hex:
     - 1083
     - 1074
-LAK: 
+LAK:
   code: LAK
   name: Kips
   symbol: ₭
   unicode_hex: 8365
-LBP: 
+LBP:
   code: LBP
   name: Pounds
   symbol: £
   unicode_hex: 163
-LKR: 
+LKR:
   code: LKR
   name: Rupees
   symbol: ₨
   unicode_hex: 8360
-LRD: 
+LRD:
   code: LRD
   name: Dollars
   symbol: $
@@ -411,27 +411,28 @@ LRD:
 LSL:
   code: LSL
   name: Maloti
-LTL: 
+LTL:
   code: LTL
   name: Litai
   symbol: Lt
-  unicode_hex: 
+  unicode_hex:
     - 76
     - 116
-LVL: 
+LVL:
   code: LVL
   name: Lati
   symbol: Ls
-  unicode_hex: 
+  unicode_hex:
     - 76
     - 115
-LYD: 
+LYD:
   code: LYD
   name: Dinars
-MAD: 
+MAD:
   code: MAD
   name: Dirhams
-MDL: 
+  sumbol: د.م.
+MDL:
   code: MDL
   name: Lei
 MKD:
@@ -443,45 +444,45 @@ MGA:
 MMK:
   code: MMK
   name: Kyat
-MNK: 
+MNK:
   code: MNK
   name: Kyats
-MNT: 
+MNT:
   code: MNT
   name: Tugriks
   symbol: ₮
   unicode_hex: 8366
-MRO: 
+MRO:
   code: MRO
   name: Ouguiyas
-MUR: 
+MUR:
   code: MUR
   name: Rupees
   symbol: ₨
   unicode_hex: 8360
-MVR: 
+MVR:
   code: MVR
   name: Rufiyaa
-MWK: 
+MWK:
   code: MWK
   name: Kwachas
-MXN: 
+MXN:
   code: MXN
   name: Pesos
   symbol: $
   unicode_hex: 36
-MYR: 
+MYR:
   code: MYR
   name: Ringgits
   symbol: RM
-  unicode_hex: 
+  unicode_hex:
     - 82
     - 77
 MZN:
   code: MZN
   name: Meticals
   symbol: MT
-  unicode_hex: 
+  unicode_hex:
     - 77
     - 84
 NAD:
@@ -489,36 +490,36 @@ NAD:
   name: Dollars
   symbol: $
   unicode_hex: 36
-NGN: 
+NGN:
   code: NGN
   name: Nairas
   symbol: ₦
   unicode_hex: 8358
-NIO: 
+NIO:
   code: NIO
   name: Cordobas
   symbol: C$
-  unicode_hex: 
+  unicode_hex:
     - 67
     - 36
-NOK: 
+NOK:
   code: NOK
   name: Kroner
   symbol: kr
-  unicode_hex: 
+  unicode_hex:
     - 123
     - 114
-NPR: 
+NPR:
   code: NPR
   name: Rupees
   symbol: ₨
   unicode_hex: 8360
-NZD: 
+NZD:
   code: NZD
   name: "New Zealand Dollars"
   symbol: $
   unicode_hex: 36
-OMR: 
+OMR:
   code: OMR
   name: Riais
   symbol: ﷼
@@ -527,255 +528,255 @@ PAB:
   code: PAB
   name: Balboa
   symbol: B/.
-  unicode_hex: 
+  unicode_hex:
     - 66
     - 47
     - 46
-PEN: 
+PEN:
   code: PEN
   name: "Nuevos Soles"
   symbol: S/.
-  unicode_hex: 
+  unicode_hex:
     - "0x50,0x2f,0x2e"
-PGK: 
+PGK:
   code: PGK
   name: Kina
-PHP: 
+PHP:
   code: PHP
   name: Pesos
   symbol: Php
-  unicode_hex: 
+  unicode_hex:
     - 80
     - 104
     - 112
-PKR: 
+PKR:
   code: PKR
   name: Rupees
   symbol: ₨
   unicode_hex: 8360
-PLN: 
+PLN:
   code: PLN
   name: Zlotych
   symbol: zł
-  unicode_hex: 
+  unicode_hex:
     - 122
     - 322
-PYG: 
+PYG:
   code: PYG
   name: Guarani
   symbol: Gs
-  unicode_hex: 
+  unicode_hex:
     - 71
     - 115
-QAR: 
+QAR:
   code: QAR
   name: Rials
   symbol: ﷼
   unicode_hex: 65020
-RON: 
+RON:
   code: RON
   name: "New Lei"
   symbol: lei
-  unicode_hex: 
+  unicode_hex:
     - 108
     - 101
     - 105
-RSD: 
+RSD:
   code: RSD
   name: Dinars
   symbol: Дин.
-  unicode_hex: 
+  unicode_hex:
     - 1044
     - 1080
     - 1085
     - 46
-RUB: 
+RUB:
   code: RUB
   name: Rubles
   symbol: руб
-  unicode_hex: 
+  unicode_hex:
     - 1088
     - 1091
     - 1073
-RWF: 
+RWF:
   code: RWF
   name: Francs
-SAR: 
+SAR:
   code: SAR
   name: Riyals
   symbol: ﷼
   unicode_hex: 65020
-SBD: 
+SBD:
   code: SBD
   name: Dollars
   symbol: $
   unicode_hex: 36
-SCR: 
+SCR:
   code: SCR
   name: Rupees
   symbol: ₨
   unicode_hex: 8360
-SDG: 
+SDG:
   code: SDG
   name: Pounds
-SEK: 
+SEK:
   code: SEK
   name: Kronor
   symbol: kr
-  unicode_hex: 
+  unicode_hex:
     - 107
     - 114
-SGD: 
+SGD:
   code: SGD
   name: Dollars
   symbol: $
   unicode_hex: 36
-SHP: 
+SHP:
   code: SHP
   name: Pounds
   symbol: £
   unicode_hex: 163
-SLL: 
+SLL:
   code: SLL
   name: Leones
-SOS: 
+SOS:
   code: SOS
   name: Shillings
   symbol: S
   unicode_hex: 83
-SRD: 
+SRD:
   code: SRD
   name: Dollars
   symbol: $
   unicode_hex: 36
-STD: 
+STD:
   code: STD
   name: Dobras
-SVC: 
+SVC:
   code: SVC
   name: "Salvadoran Colón"
-SYP: 
+SYP:
   code: SYP
   name: Pounds
   symbol: £
   unicode_hex: 163
-SZL: 
+SZL:
   code: SZL
   name: Emalangeni
-THB: 
+THB:
   code: THB
   name: Baht
   symbol: ฿
   unicode_hex: 3647
-TJS: 
+TJS:
   code: TJS
   name: Somoni
-TMM: 
+TMM:
   code: TMM
   name: Manat
-TND: 
+TND:
   code: TND
   name: Dollars
-TOP: 
+TOP:
   code: TOP
   name: Pa'anga
-TRY: 
+TRY:
   code: TRY
   name: Lira
   symbol: TL
-  unicode_hex: 
+  unicode_hex:
     - 84
     - 76
-TTD: 
+TTD:
   code: TTD
   name: Dollars
   symbol: $
   unicode_hex: 36
-TVD: 
+TVD:
   code: TVD
   name: "Tuvalu Dollars"
-TWD: 
+TWD:
   code: TWD
   name: "New Dollars"
   symbol: NT$
-  unicode_hex: 
+  unicode_hex:
     - 78
     - 84
     - 36
-TZS: 
+TZS:
   code: TZS
   name: Shillings
-UAH: 
+UAH:
   code: UAH
   name: Hryvnia
   symbol: ₴
   unicode_hex: 8372
-UGX: 
+UGX:
   code: UGX
   name: Shillings
-USD: 
+USD:
   code: USD
   name: Dollars
   symbol: $
   unicode_hex: 36
-UYU: 
+UYU:
   code: UYU
   name: Pesos
   symbol: $U
-  unicode_hex: 
+  unicode_hex:
     - 36
     - 85
-UZS: 
+UZS:
   code: UZS
   name: Sums
   symbol: лв
-  unicode_hex: 
+  unicode_hex:
     - 1083
     - 1074
-VEF: 
+VEF:
   code: VEF
   name: "Bolivares Fuertes"
   symbol: Bs
-  unicode_hex: 
+  unicode_hex:
     - 1083
     - 1074
-VND: 
+VND:
   code: VND
   name: Dong
   symbol: ₫
   unicode_hex: 8363
-XAF: 
+XAF:
   code: XAF
   name: "Communauté Financière Africaine Francs"
-XCD: 
+XCD:
   code: XCD
   name: "East Caribbean Dollars"
   symbol: $
   unicode_hex: 36
-XOF: 
+XOF:
   code: XOF
   name: "Communauté Financière Africaine Francs"
-XPF: 
+XPF:
   code: XPF
   name: "Comptoirs Français du Pacifique Francs"
-YER: 
+YER:
   code: YER
   name: Rials
   symbol: ﷼
   unicode_hex: 65020
-ZAR: 
+ZAR:
   code: ZAR
   name: Rand
   symbol: R
   unicode_hex: 82
-ZMK: 
+ZMK:
   code: ZMK
   name: Kwacha
-ZWD: 
+ZWD:
   code: ZWD
   name: "Zimbabwe Dollars"
   symbol: Z$
-  unicode_hex: 
+  unicode_hex:
     - 90
     - 36
 
