@@ -384,7 +384,7 @@ INR:
   code: INR
   name: Rupees
   full_name: "Indian Rupees"
-  symbol: ₨
+  symbol: ₹
   unicode_hex: 8360
 IQD:
   code: IQD
@@ -526,6 +526,7 @@ MAD:
   code: MAD
   name: Dirhams
   full_name: "Moroccan Dirhams"
+  symbol: د.م.
 MDL:
   code: MDL
   name: Lei
@@ -782,7 +783,7 @@ SOS:
 SRD:
   code: SRD
   name: Dollars
-  full_name: "Surifull_name Dollars"
+  full_name: "Surinam Dollars"
   symbol: $
   unicode_hex: 36
 STD:
@@ -821,6 +822,7 @@ TND:
   code: TND
   name: "Dinars"
   full_name: "Tunisian Dinars"
+  symbol: DT
 TOP:
   code: TOP
   name: Pa'anga
