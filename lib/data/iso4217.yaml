@@ -526,6 +526,7 @@ MAD:
   code: MAD
   name: Dirhams
   full_name: "Moroccan Dirhams"
+  symbol: MAD
 MDL:
   code: MDL
   name: Lei
