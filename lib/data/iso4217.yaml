@@ -918,6 +918,7 @@ XOF:
   code: XOF
   name: "Communauté Financière Africaine Francs"
   full_name: "Communauté Financière Africaine Francs"
+  symbol: XOF
 XPF:
   code: XPF
   name: "Comptoirs Français du Pacifique Francs"
