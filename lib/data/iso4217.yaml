@@ -808,7 +808,7 @@ THB:
   code: THB
   name: Baht
   full_name: "Thailand Baht"
-  symbol: ฿
+  symbol: THB
   unicode_hex: 3647
 TJS:
   code: TJS
